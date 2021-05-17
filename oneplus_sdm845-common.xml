@@ -12,7 +12,7 @@
     <project path="hybris/hybris-installer" name="silvestr25/hybris-installer" revision="hybris-16.0"/>
 
     <!-- Modified LOS Kernel --> 
-    <project path="kernel/oneplus/sdm845" name="sailfish-oneplus6/android_kernel_oneplus_sdm845-stable" revision="hybris-17.1" />
+    <project path="kernel/oneplus/sdm845" name="silvestr25/android_kernel_oneplus_sm8150" revision="oneplus/SM8150_Q_10.0"/>
 
     <!-- Vendor Blobs -->
     <project path="vendor/oneplus" name="TheMuppets/proprietary_vendor_oneplus" revision="lineage-17.1" />
