@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device Parts -->
-    <project path="device/oneplus/sdm845-common" name="sailfish-oneplus6/android_device_oneplus_sdm845-common" revision="hybris-17.1" />
+    <project path="device/oneplus/sm8150-common" name="silvestr25/android_device_oneplus_sm8150-common" revision="hybris-17.1" />
 
     <project path="device/oneplus/common" name="LineageOS/android_device_oneplus_common" revision="lineage-17.1" />
 
     <remove-project path="hybris/hybris-boot" name="mer-hybris/hybris-boot" />
-    <project path="hybris/hybris-boot" name="sailfish-oneplus6/hybris-boot" revision="master"/>
+    <project path="hybris/hybris-boot" name="silvestr25/hybris-boot" revision="master"/>
 
     <!-- Deathmist's Hybris-Installer -->
-    <project path="hybris/hybris-installer" name="sailfish-oneplus6/hybris-installer" revision="hybris-16.0"/>
+    <project path="hybris/hybris-installer" name="silvestr25/hybris-installer" revision="hybris-16.0"/>
 
     <!-- Modified LOS Kernel --> 
     <project path="kernel/oneplus/sdm845" name="sailfish-oneplus6/android_kernel_oneplus_sdm845-stable" revision="hybris-17.1" />
